@@ -1,0 +1,2 @@
+# Voice-Assistant-Angularstone
+Angularstone is a voice assistant which takes user's voice commands as input and perform some NLP operations then respond accordingly. There are many existing technologies which exhibit the similar feature. But, it has something different to flaunt. Angularstone can get access to Instagram(currently) and other social media platforms like Facebook, Twitter and many more. You can add these platforms easily. And the most important thing about this is, it is cheap.  Yeah ! Go and check out these.
